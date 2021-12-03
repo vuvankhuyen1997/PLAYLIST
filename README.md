@@ -1,6 +1,6 @@
 # PLAYLIST-YOUTUBE
 General Description of the Application:
-  This application can save data to txt file, read data from txt file, access to url link which is shown on GUI Python
+  This application can save data to txt file, read data from txt file, access to url link which is shown on GUI Python.
  
  Table of contents:
  1. Run project.py
